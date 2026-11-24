@@ -59,7 +59,7 @@ The current program contains the MySQL connection details directly in the Python
 con = a.connect(
 host="localhost",
 user="root",
-passwd="sonabms",
+passwd="xxx",
 database="hotel"
 )
 Therefore, the MySQL installation must have a user with the appropriate credentials, or these values must be changed in the Python file to match the MySQL account on the computer.
